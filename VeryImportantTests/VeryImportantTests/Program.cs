@@ -10,6 +10,7 @@ namespace VeryImportantTests
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("wow");
         }
     }
 }
